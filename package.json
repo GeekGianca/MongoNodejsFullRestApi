@@ -1,0 +1,17 @@
+{
+  "name": "mongodb_nodejs",
+  "version": "1.0.0",
+  "description": "Connection nodejs with mongodb",
+  "main": "connect_mongo.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gksoftware",
+  "license": "ISC"
+}
